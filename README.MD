@@ -21,8 +21,6 @@ A sophisticated Discord bot that brings the power of DeepSeek's advanced AI mode
 | `!clear` | Clear conversation history in current channel | `!clear` |
 | `!model <name>` | Switch between different AI models | `!model deepseek-coder` |
 | `!help` | Show available commands and usage | `!help` |
-| `!ping` | Check if bot is responsive | `!ping` |
-| `!debug` | Show technical information | `!debug` |
 
 ## 🛡️ Permissions Required
 
@@ -64,4 +62,5 @@ A sophisticated Discord bot that brings the power of DeepSeek's advanced AI mode
 - Discord Bot Token
 - DeepSeek API Key
 - Server with persistent connection capability
+
 
